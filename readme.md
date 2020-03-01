@@ -6,5 +6,7 @@ No support for user authentication yet.
 
 To try it:
 * git clone <this>
-* python todo.py in shell
+* pip install bottle
+* python create_default_db.py
+* python todo.py
 * open localhost:8080 in browser
