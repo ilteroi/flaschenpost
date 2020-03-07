@@ -1,5 +1,5 @@
 %#we expect exactly two columns, one is the ID and one is the text per item
-<p>The <b>open</b> items are as follows:</p>
+<p>{{summary}}</p>
 <table border="1">
 	%for row in rows:
 	<tr>
