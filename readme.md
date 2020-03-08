@@ -6,7 +6,7 @@ Now with basic authentication.
 
 To try it:
 * git clone <this>
-* pip install bottle
+* pip install bottle beaker paste
 * python create_default_db.py
 * python todo.py
 * open localhost:8080 in browser
